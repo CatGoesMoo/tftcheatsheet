@@ -27,3 +27,7 @@ Create tooltips for Little Legends Page []
 
 Use twitch.tv api to embed certain streamers rather than redirecting to the overall game []
 ```
+
+#Disclaimer
+
+League of Legends and the gamemode Teamfight Tactics are registered trademarks of Riot Games, Inc. This project was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games.  Riot Games does not endorse or sponsor this project. To read more about the Riot Games' "Legal Jibber Jabber" policy: https://www.riotgames.com/en/legal
