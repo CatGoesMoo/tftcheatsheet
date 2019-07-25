@@ -50,4 +50,18 @@ body{
 	width:50px;
 }
 
+.champions{
+	text-align:center;
+	font-size: 50px;
+	color:white;
+	padding-top: 30px;
+}
 
+.champion-table{
+	padding-left: 550px;
+	padding-top: 60px;
+}
+
+table{
+	border-spacing: 20px;
+}
