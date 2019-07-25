@@ -16,6 +16,8 @@ Item Page [x]
 Champion Page [x]
 
 Little Legends Page []
+
+Link to TFT Streamers [x]
 ```
 Additional ideas:
 ```
