@@ -13,7 +13,7 @@ Main Page [x]
 
 Item Page [x]
 
-Champion Page []
+Champion Page [x]
 
 Little Legends Page []
 ```
@@ -22,6 +22,8 @@ Additional ideas:
 Create tooltips for Item Page []
 
 Create tooltips for Champion Page []
+
+Create a sorting option for Champion page[]
 
 Create tooltips for Little Legends Page []
 
