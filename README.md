@@ -5,9 +5,11 @@ Legends that uses characters within the main game to fight tactically against yo
 allows players to look at if in need of assistance during game.
 
 #goals
+
 x = complete
 
-```Main Page [x]
+```
+Main Page [x]
 
 Item Page [x]
 
@@ -15,11 +17,8 @@ Champion Page []
 
 Little Legends Page []
 ```
-
 Additional ideas:
-
 ```
-
 Create tooltips for Item Page []
 
 Create tooltips for Champion Page []
@@ -27,5 +26,4 @@ Create tooltips for Champion Page []
 Create tooltips for Little Legends Page []
 
 Use twitch.tv api to embed certain streamers rather than redirecting to the overall game []
-
 ```
