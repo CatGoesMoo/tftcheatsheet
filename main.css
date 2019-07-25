@@ -1,0 +1,72 @@
+body{
+	background-color: #245065;
+	background-image: url("https://dotesports-media.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2019/06/11154452/tft_announce_article_header3.jpg");
+	background-position:center;
+	background-repeat: no-repeat;
+}
+.nav{
+	color:white;
+	font-size: 25px;
+	background-color: #092633;
+	font-family: "verdana";
+}
+.nav p1{
+	font-family: "impact", "charcoal","sans-serif";
+	color: white;
+	text-decoration: none;
+}
+.logo{
+	padding-left: 50px;
+}
+.link-one{
+	color:white;
+	float:right;
+	padding-top:10px;
+	padding-right: 650px;
+	font-size:20px;
+}
+.link-two{
+	color:white;
+	float:right;
+	padding-right: 55px;
+	padding-top: 10px;
+	font-size:20px;
+}
+.link-three{
+	color:white;
+	float:right;
+	padding-top: 10px;
+	padding-right: 55px;
+	font-size:20px;
+}
+.link-four{
+	color:white;
+	float:right;
+	padding-top: 10px;
+	padding-right: 55px;
+	font-size:20px;
+}
+
+.homepage{
+	height:50px;
+	width:50px;
+}
+
+.video-trailer{
+	text-align:center;
+	color:black;
+	font-size:16px;
+	padding-top: 200px;
+}
+mark{
+	background-color: #355eca;
+	color:white;
+}
+
+.game-download{
+	text-align:center;
+	color:yellow;
+	padding-top: 200px;
+	font-size:20px;
+}
+

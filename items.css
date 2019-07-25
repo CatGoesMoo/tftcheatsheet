@@ -1,0 +1,102 @@
+body{
+	background-color: #245065;
+	background-position: center;
+	background-image-height: 50px;
+}
+body::after{
+  background-image:url("https://cdn.blitz.gg/blitz/tft/backgrounds/map_default.jpg");
+  content: "";
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1; 
+  background-repeat: no-repeat;  
+  background-position:center;
+}
+
+.nav{
+	color:white;
+	font-size: 25px;
+	background-color: #092633;
+	font-family: "verdana";
+}
+.nav p1{
+	font-family: "impact", "charcoal","sans-serif";
+	color: white;
+	text-decoration: none;
+}
+.logo{
+	padding-left: 50px;
+}
+.link-one{
+	color:white;
+	float:right;
+	padding-top:10px;
+	padding-right: 650px;
+	font-size:20px;
+}
+.link-two{
+	color:white;
+	float:right;
+	padding-right: 55px;
+	padding-top: 10px;
+	font-size:20px;
+}
+.link-three{
+	color:white;
+	float:right;
+	padding-top: 10px;
+	padding-right: 55px;
+	font-size:20px;
+}
+.link-four{
+	color:white;
+	float:right;
+	padding-top: 10px;
+	padding-right: 55px;
+	font-size:20px;
+}
+
+.homepage{
+	height:50px;
+	width:50px;
+}
+
+.items-one{
+	color:white;
+	padding-left:566px;
+}
+
+.items-two{
+	color:white;
+	padding-left:650px;
+	padding-top:100px;
+}
+
+table{
+	
+	border-spacing: 15px;
+}
+
+th{
+	border:solid black;
+}
+
+.itemTable-two{
+	border-bottom: solid black 10px;
+	
+}
+.col{
+	border-right: solid black 5px;
+	border-width: thick 10px;
+}
+
+header{
+	font-size: 25px;
+	text-align:center;
+	padding-bottom: 10px;
+	padding-right: 650px;
+}
