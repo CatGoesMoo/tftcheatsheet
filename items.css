@@ -15,6 +15,7 @@ body::after{
   z-index: -1; 
   background-repeat: no-repeat;  
   background-position:center;
+  background-size:100%;
 }
 
 .nav{
@@ -100,3 +101,4 @@ header{
 	padding-bottom: 10px;
 	padding-right: 650px;
 }
+
