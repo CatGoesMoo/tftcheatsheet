@@ -27,8 +27,6 @@ Create tooltips for Champion Page []
 
 Create a sorting option for Champion page[]
 
-Create tooltips for Little Legends Page []
-
 Use twitch.tv api to embed certain streamers rather than redirecting to the overall game []
 ```
 
