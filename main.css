@@ -3,6 +3,7 @@ body{
 	background-image: url("https://dotesports-media.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2019/06/11154452/tft_announce_article_header3.jpg");
 	background-position:center;
 	background-repeat: no-repeat;
+	background-size:100%;
 }
 .nav{
 	color:white;
@@ -65,8 +66,8 @@ mark{
 
 .game-download{
 	text-align:center;
-	color:yellow;
-	padding-top: 200px;
+	color:white;
+	padding-top: 150px;
 	font-size:20px;
 }
 
