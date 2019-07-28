@@ -25,9 +25,11 @@ Create tooltips for Item Page []
 
 Create tooltips for Champion Page []
 
-Create a sorting option for Champion page[]
+Create a sorting option for Champion page []
 
 Use twitch.tv api to embed certain streamers rather than redirecting to the overall game []
+
+Create individual pages for each champio []
 ```
 
 ### Disclaimer
