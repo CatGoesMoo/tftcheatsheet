@@ -29,7 +29,7 @@ Create a sorting option for Champion page []
 
 Use twitch.tv api to embed certain streamers rather than redirecting to the overall game []
 
-Create individual pages for each champio []
+Create individual pages for each champion []
 ```
 
 ### Disclaimer
