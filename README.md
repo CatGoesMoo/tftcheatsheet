@@ -4,7 +4,7 @@ This project is for my own personal use, others are welcome to use it as well. T
 Legends that uses characters within the main game to fight tactically against your opponents. This project provides a variety of data that
 allows players to look at if in need of assistance during game.
 
-# goals
+## goals
 
 x = complete
 
@@ -30,6 +30,6 @@ Create a sorting option for Champion page[]
 Use twitch.tv api to embed certain streamers rather than redirecting to the overall game []
 ```
 
-# Disclaimer
+## Disclaimer
 
 League of Legends and the gamemode Teamfight Tactics are registered trademarks of Riot Games, Inc. This project was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games.  Riot Games does not endorse or sponsor this project. To read more about the Riot Games' "Legal Jibber Jabber" policy: https://www.riotgames.com/en/legal
