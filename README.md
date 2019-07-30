@@ -15,9 +15,7 @@ Item Page [x]
 
 Champion Page [x]
 
-Little Legends Page [x] 
-
-<span style="color:red"> Removed.</span>
+Little Legends Page [x] (Removed)
 
 Link to TFT Streamers [x]
 
