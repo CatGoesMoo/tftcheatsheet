@@ -15,6 +15,7 @@ body::after{
   background-repeat: no-repeat;  
   background-position:center;
   background-size:100%;
+  background-attachment:fixed;
 }
 .nav{
 	color:white;
@@ -71,11 +72,40 @@ body::after{
 	padding-top: 30px;
 }
 
-.champion-table{
-	padding-left: 550px;
-	padding-top: 40px;
+.tooltips{
+	position:relative;
+	display:inline-grid;	
+	font-size:15px;
+	padding:15px;
+	padding-top:30px;
+	max-width: content;
 }
 
-table{
-	border-spacing: 20px;
+.tooltips img{
+	height: 70px;
+	width: 70px;
+}
+
+.tooltips .tooltiptext{
+  visibility: hidden;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 200;
+  top: 95%;
+  left: 50%;
+  margin-left: -90px;
+  opacity: 0;
+  transition: opacity 0.3s;
+   max-width:content;
+}
+
+
+.tooltips:hover .tooltiptext {
+  visibility: visible;
+  opacity: 0.9;
+  max-width:content;
 }
