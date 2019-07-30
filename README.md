@@ -15,9 +15,13 @@ Item Page [x]
 
 Champion Page [x]
 
-Little Legends Page [x]
+Little Legends Page [x] 
+
+<span style="color:red"> Removed.</span>
 
 Link to TFT Streamers [x]
+
+Synergy Page[]
 ```
 Additional ideas:
 ```
