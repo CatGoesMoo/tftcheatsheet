@@ -23,7 +23,7 @@ Additional ideas:
 ```
 Create tooltips for Item Page []
 
-Create tooltips for Champion Page []
+Create tooltips for Champion Page [x]
 
 Create a sorting option for Champion page []
 
