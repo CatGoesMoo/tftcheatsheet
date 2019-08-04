@@ -19,12 +19,10 @@ Little Legends Page [x] (Removed)
 
 Link to TFT Streamers [x]
 
-Synergy Page[]
+Synergy Page[x]
 ```
 Additional ideas:
 ```
-Create tooltips for Item Page []
-
 Create tooltips for Champion Page [x]
 
 Create a sorting option for Champion page []

@@ -1,6 +1,9 @@
+
 body{
 	background-color: #245065;
 	background-position: center;
+		margin: 0px;
+	padding: 0px;
 }
 body::after{
   background-image:url("./champions/background.jpg");
@@ -14,8 +17,11 @@ body::after{
   z-index: -1; 
   background-repeat: no-repeat;  
   background-position:center;
-  background-size:100%;
+  background-size: cover;
   background-attachment:fixed;
+}
+.patch{
+	color:yellow;
 }
 .nav{
 	color:white;
@@ -85,14 +91,14 @@ body::after{
 	position:relative;
 	display:inline-grid;	
 	font-size:15px;
-	padding:15px;
+	padding:10px;
 	padding-top:30px;
 	max-width: content;
 }
 
 .tooltips img{
-	height: 70px;
-	width: 70px;
+	height: 55px;
+	width: 55px;
 }
 
 .tooltips .tooltiptext{
@@ -106,7 +112,7 @@ body::after{
   z-index: 200;
   top: 95%;
   left: 50%;
-  margin-left: -90px;
+  margin-left: -65px;
   opacity: 0;
   transition: opacity 0.3s;
    max-width:content;

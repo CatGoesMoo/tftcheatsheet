@@ -17,7 +17,9 @@ body::after{
   background-position:center;
   background-size:100%;
 }
-
+.patch{
+	color:yellow;
+}
 .nav{
 	color:white;
 	font-size: 25px;
@@ -81,7 +83,7 @@ body::after{
 .items-two{
 	color:white;
 	padding-left:650px;
-	padding-top:100px;
+	padding-top:50px;
 }
 
 table{
