@@ -4,6 +4,7 @@ This project is for my own personal use, others are welcome to use it as well. T
 Legends that uses characters within the main game to fight tactically against your opponents. This project provides a variety of data that
 allows players to look at if in need of assistance during game.
 
+Patch: 9.16 (Not Updated)
 ### Goals
 
 x = complete
