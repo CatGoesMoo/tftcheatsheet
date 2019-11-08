@@ -1,5 +1,6 @@
 # tftcheatsheet
 
+##Taking a pause from this project. Too many updates in the actual game!
 This project is for my own personal use, others are welcome to use it as well. Teamfight Tactics(TFT) is a gamemode in League of
 Legends that uses characters within the main game to fight tactically against your opponents. This project provides a variety of data that
 allows players to look at if in need of assistance during game.
